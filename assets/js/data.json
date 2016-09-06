@@ -1,0 +1,10 @@
+officers([
+    {"pic":"../images/cali.jpeg", "firstName":"Brian", "lastName":"Wang", "job":"iOS President"},
+    {"pic":"../images/cali.jpeg", "firstName":"Cal", "lastName":"Stephens", "job":"iOS Developer"},
+    {"pic":"../images/cali.jpeg", "firstName":"Varun", "lastName":"Ballari", "job":"iOS Designer"},
+    {"pic":"../images/cali.jpeg", "firstName":"Ale", "lastName":"Patron", "job":"iOS Developer"},
+    {"pic":"../images/cali.jpeg", "firstName":"Brian", "lastName":"Wang", "job":"iOS President"},
+    {"pic":"../images/cali.jpeg", "firstName":"Brian", "lastName":"Wang", "job":"iOS President"},
+    {"pic":"../images/cali.jpeg", "firstName":"Brian", "lastName":"Wang", "job":"iOS President"},
+    {"pic":"../images/cali.jpeg", "firstName":"Brian", "lastName":"Wang", "job":"iOS President"},
+])
