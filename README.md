@@ -1,7 +1,7 @@
 # Website for iOS Club
-### Version 2.0
+### Version 1.0
 
-This is the second version of the iOS Club at Georgia Tech's website.
+This is the first version of the iOS Club at Georgia Tech's website.
 
 ### About
 - Static website built on HTML, CSS, and Javascript
