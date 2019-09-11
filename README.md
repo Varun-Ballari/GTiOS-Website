@@ -5,8 +5,6 @@ This is the first version of the iOS Club at Georgia Tech's website.
 
 ### About
 - Static website built on HTML, CSS, and Javascript
-- Hosted website code is on iOS Club's [__github__](https://github.com/iosgatech)
-- Current website uses GitHub Pages and Jekyll
 
 ### Purpose
 - The purpose of this website is to provide the users with class content and club info
