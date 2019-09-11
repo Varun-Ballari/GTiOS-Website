@@ -137,7 +137,7 @@ $(document).ready(function(){
          $("#email").attr("src","assets/images/emailWhite.png");
          $("#facebook").attr("src","assets/images/facebookWhite.png");
          $("#github").attr("src","assets/images/githubWhite.png");
-         $("#headerLogo").attr("src","assets/images/headerLogo.png");
+         $("#headerLogo").attr("src","assets/images/headerlogo.png");
 
          $('.main').css('background-color', 'rgba(255, 69, 59, 0.8)');
 
